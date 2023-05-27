@@ -10,7 +10,6 @@
         android:id="@+id/iv_detail_content"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#4C4A4A"
         android:importantForAccessibility="no"
         android:scaleType="centerInside"
         android:transitionName="detail_image" />

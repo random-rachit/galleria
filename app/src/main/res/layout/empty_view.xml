@@ -8,13 +8,14 @@
         android:id="@+id/iv_empty_view"
         android:layout_width="120dp"
         android:layout_height="120dp"
+        android:foregroundTint="@color/colorTintPrimary"
         android:importantForAccessibility="no"
+        android:src="@drawable/splash_icon"
         app:layout_constraintBottom_toTopOf="@id/tv_empty_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_chainStyle="packed"
-        app:srcCompat="@drawable/splash_icon"
         app:tint="@color/colorTintPrimary" />
 
     <TextView

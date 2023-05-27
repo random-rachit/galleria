@@ -6,4 +6,5 @@
     </style>
     <color name="colorTintPrimary">@color/white</color>
     <color name="primary">#4C4A4A</color>
+    <color name="baseBackground">#000000</color>
 </resources>
