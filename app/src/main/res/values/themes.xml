@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Galleria" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+    </style>
+    <color name="colorTintPrimary">@color/black</color>
+    <color name="primary">#C0C0C0</color>
+
+</resources>
